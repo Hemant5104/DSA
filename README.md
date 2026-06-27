@@ -11,6 +11,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -32,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
