@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/Hemant5104/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Hemant5104/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 ## String
 | Problem Name | Difficulty |
