@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -11,6 +12,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Prefix Sum
@@ -41,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
