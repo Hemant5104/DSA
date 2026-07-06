@@ -10,12 +10,14 @@
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hemant5104/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 <!---LeetCode Topics End-->
