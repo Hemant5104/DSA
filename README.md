@@ -39,6 +39,7 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Hemant5104/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/Hemant5104/DSA/tree/main/0650-2-keys-keyboard/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0650-2-keys-keyboard](https://github.com/Hemant5104/DSA/tree/main/0650-2-keys-keyboard/) | Medium |
 | [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
