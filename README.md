@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Hemant5104/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Hemant5104/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -77,21 +78,25 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemant5104/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Hemant5104/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Hemant5104/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Hemant5104/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemant5104/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Hemant5104/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Hemant5104/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
