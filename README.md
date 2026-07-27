@@ -11,6 +11,7 @@
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hemant5104/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemant5104/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemant5104/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemant5104/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemant5104/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
