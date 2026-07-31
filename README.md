@@ -24,6 +24,7 @@
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Hemant5104/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -55,11 +56,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemant5104/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +76,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3044-most-frequent-prime](https://github.com/Hemant5104/DSA/tree/main/3044-most-frequent-prime/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -123,4 +127,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Hemant5104/DSA/tree/main/0494-target-sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
