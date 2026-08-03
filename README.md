@@ -10,6 +10,7 @@
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Hemant5104/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Hemant5104/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Hemant5104/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Hemant5104/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Hemant5104/DSA/tree/main/0494-target-sum/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -49,6 +50,7 @@
 | [0152-maximum-product-subarray](https://github.com/Hemant5104/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Hemant5104/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Hemant5104/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Hemant5104/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Hemant5104/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Hemant5104/DSA/tree/main/0494-target-sum/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Hemant5104/DSA/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -119,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemant5104/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Hemant5104/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
