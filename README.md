@@ -14,6 +14,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Hemant5104/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Hemant5104/DSA/tree/main/0494-target-sum/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hemant5104/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hemant5104/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemant5104/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -34,6 +35,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hemant5104/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -54,6 +56,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Hemant5104/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Hemant5104/DSA/tree/main/0494-target-sum/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Hemant5104/DSA/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemant5104/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Hemant5104/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +138,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
