@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/Hemant5104/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Hemant5104/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Hemant5104/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Hemant5104/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemant5104/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -146,4 +148,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Hemant5104/DSA/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Hemant5104/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
